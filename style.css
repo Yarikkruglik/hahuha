@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:lightblue;
+    padding:10px;
+}
+
+main {
+    margin: 20px;
+
+}
+
+h1 {
+    background-color: lightblue;
+    color:darkblue;
+    font-size:52px;
+    text-align: center;
+}
+
+footer p {
+      background-color:limegreen;
+      font-size: 20px;
+}
+
+select {
+    margin: 20px;
+    padding:10px;
+    border:2px solid lightgreen;
+    font-size:20px;
+}
+
+select option {
+    color: rgb(90,90,90);
+}
+
+.s {
+    background-color: #c4e390;
+}
